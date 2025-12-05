@@ -1,0 +1,5 @@
+{
+  "name": "HuatuoGPT Interaction Agent",
+  "description": "An automated agent for extracting Chinese-Western drug interactions from medical literature using prompt engineering techniques derived from HuatuoGPT research.",
+  "requestFramePermissions": []
+}
