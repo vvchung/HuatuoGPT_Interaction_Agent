@@ -1,6 +1,7 @@
 # 💊 HuatuoGPT Agent：中西藥交互作用・自動探勘系統 🚀
 
 > **別再讓你的時間淹沒在 PubMed 的浩瀚大海裡！**
+> 
 > 結合 **HuatuoGPT 的靈魂** 與 **Gemini 的算力**，我們打造了強大的「中西藥交互作用」醫學文獻提取 Agent。
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Tech](https://img.shields.io/badge/Tech-React%20%7C%20Gemini%20API%20%7C%20Tailwind-teal) ![Status](https://img.shields.io/badge/Status-Blazing%20Fast-fire)
