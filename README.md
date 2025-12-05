@@ -43,7 +43,7 @@
 *   **左側：臨床報告卡 (Clinical Card)** - 給人類看的！精美可視化設計，關鍵風險紅字標示，決策只需一秒。
 *   **右側：JSON 數據流 (Data Stream)** - 給機器看的！乾淨、標準化的 JSON 格式，直接存入資料庫，無需二次清洗。
 
-![HuatuoGPT Agent Interface](images/screenshot.png)
+![HuatuoGPT Agent Interface](images/screenshot.png.png)
 
 ---
 
