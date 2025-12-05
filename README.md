@@ -117,6 +117,6 @@ AI 雖強，但仍有人工智慧的極限。**所有臨床決策請務必經過
 ---
 
 <div align="center">
-  <p>Made with ❤️ and ☕️ by [vvchung]</p>
+  <p>Made with ❤️ and ☕️ by vvchung</p>
   <p><i>Building the bridge between TCM and Modern Medicine.</i></p>
 </div>
